@@ -1,5 +1,5 @@
 """this code prints the below pattern
-if n = 5 the pattern is:-
+if x = 5 the pattern is:-
       *
      **
     ***
