@@ -1,11 +1,9 @@
 """this code prints the below pattern
-if x = 5 the pattern is:-
+if n = 5 the pattern is:-
       *
      **
     ***
    ****
-  *****
- ******
   *****
    ****
     ***
